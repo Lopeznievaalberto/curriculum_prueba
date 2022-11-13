@@ -1,0 +1,70 @@
+body{
+ 
+    margin: 0px;
+
+}
+
+aside{
+    background-color: red;
+    width: 34vmax;
+    height: 120vmax;
+    
+    position: absolute;
+
+
+
+
+}
+
+
+
+
+
+#p{
+   
+    position: absolute;
+    width: 65vmin;
+    height: 16vmin;
+    left: 25em;
+
+}
+
+#a{
+    
+    position: absolute;
+    width: 65vmin;
+    height: 26vmin;
+    top: 12em;
+    left: 25em;
+
+
+}
+
+
+
+
+
+#b{
+    
+    position: absolute;
+    width: 65vmin;
+    height: 17vmin;
+    top: 31em;
+    left: 25em;
+
+}
+
+
+#pequeño{
+    font-size: 8px;
+
+}
+
+
+
+
+
+
+
+
+
